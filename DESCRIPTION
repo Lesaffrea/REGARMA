@@ -5,7 +5,7 @@ Version: 0.1.1.2
 Date: 2014-10-01
 Depends: tseries, msgps, Rmpfr  
 Imports: tseries, msgps, Rmpfr
-Author@R: Hamed Haselimashhadi (www.hamedhaseli.webs.com)
+Author@R: person("Hamed" , "Haselimashhadi" , email= (www.hamedhaseli.webs.com))
 Maintainer:  Hamed Haseli <hamed.haselimashhadi@brunel.ac.uk>, <hamedhaseli@gmail.com>
 Description: This package estimates Lasso, adaptive Lasso, elastic net and REGARMA regression using AIC, BIC and GCV. 
 LazyLoad: no
